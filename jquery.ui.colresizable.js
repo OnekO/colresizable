@@ -8,7 +8,7 @@
  *   http://www.gnu.org/licenses/gpl.html
  *
  *
- * http://api.jqueryui.com/selectmenu
+ * https://github.com/OnekO/colresizable
  *
  * Depends:
  *   jquery
